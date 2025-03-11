@@ -1,2 +1,3 @@
 # AI2025
 2025 AI JOURNEY IN NTPU 
+## 第一次進入AI世界
